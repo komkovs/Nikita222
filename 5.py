@@ -1,12 +1,12 @@
-X = int(input('Введите число X'))
-Y = int(input('Введите число Y'))
-if X > 0 < Y:
+x = int(input('Введите число x'))
+y = int(input('Введите число y'))
+if x > 0 < y:
     print('первая четверть')
-elif X < 0 < Y:
+elif x < 0 < y:
     print('вторая четверть')
-elif X < 0 > Y:
+elif x < 0 > y:
     print('третья четверть') 
-elif X > 0 > Y  :     
+elif x > 0 > y  :     
     print('четвертая четверть')
 else :
     print('точка на оси')    
