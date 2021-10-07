@@ -1,6 +1,6 @@
 from math import sqrt
-X = int(input('Введите число X'))
-Y = int(input('Введите число Y'))
-Z = int(input('Введите число Z'))
-W = sqrt(X * X + Y * Y + Z * Z)
-print(W)
+x = int(input('Введите число x'))
+y = int(input('Введите число y'))
+z = int(input('Введите число z'))
+w = sqrt(x * x + y * y + z * z)
+print(w)
